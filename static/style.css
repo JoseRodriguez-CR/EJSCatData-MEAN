@@ -1,0 +1,13 @@
+
+#container {
+    width: 600px;;
+    height: 700px;
+    margin: 2rem auto;
+    text-align: center;
+    border: .25rem solid black;
+}
+h1 {
+    text-align: center;
+}
+
+
